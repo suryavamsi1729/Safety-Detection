@@ -19,8 +19,11 @@ It supports real-time detection, multilingual user interface, text-to-speech ale
 
 ##  Demo
 
-##  Features
+- **VideoDemo** https://drive.google.com/file/d/1t22WZsAFDXw5CY2QYdUzYLdO83nrDaCj/view?usp=drive_link
 
+- **Report Link** https://docs.google.com/document/d/1SfoUYOrNc5aVDDNsIjkpDw_A2v_CAihbH1D3Ata2AFc/edit?usp=sharing
+
+##  Features
 -  **Real-time Object Detection**
 -  **Multilingual UI** (English, Hindi, Spanish, French, Chinese, Arabic, Russian, German)
 -  **Text-to-Speech (TTS)** Alerts using Web Speech API

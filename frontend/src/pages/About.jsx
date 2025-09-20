@@ -73,7 +73,7 @@ const About = () => {
                 </h2>
                 <div className="space-y-6 text-gray-300 leading-relaxed font-mono">
                   <p>
-                    <span className="text-white">ELEVEN11</span> represents the next generation of space safety technology. 
+                    <span className="text-white">Safety-Detection</span> represents the next generation of space safety technology. 
                     Our mission is to enhance astronaut safety and mission success through intelligent, real-time detection 
                     of critical safety equipment aboard space stations.
                   </p>
@@ -174,7 +174,7 @@ const About = () => {
           <div className="bg-gray-900/20 backdrop-blur-sm border border-gray-800 p-6 lg:p-8 max-w-4xl mx-auto">
             <h2 className="text-2xl font-bold text-white mb-4 flex items-center justify-center font-mono">
               <Github className="w-6 h-6 mr-3 text-gray-400" />
-              OPEN_SOURCE_&_CREDITS
+              GITHUB
             </h2>
             
             <p className="text-lg text-gray-300 mb-6 max-w-2xl mx-auto leading-relaxed font-mono">
@@ -200,7 +200,7 @@ const About = () => {
 
             <div className="text-center space-y-2 font-mono">
               <p className="text-gray-400">
-                <span className="text-white">TEAM:</span>TechTians
+                <span className="text-white">TEAM:</span>TechTitans
               </p>
             </div>
           </div>
