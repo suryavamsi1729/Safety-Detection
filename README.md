@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Safety-Detection – Spot. Detect. Protect.</h1>
   <p>
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
     <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat&logo=python" alt="Python 3.10+">
     <img src="https://img.shields.io/badge/Backend-Flask-black?style=flat&logo=flask" alt="Backend: Flask">
     <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react" alt="Frontend: React">
