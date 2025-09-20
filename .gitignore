@@ -28,3 +28,6 @@ model\ weights/
 # Temporary test files
 *timing*.py
 test_*.py
+
+
+venv/
