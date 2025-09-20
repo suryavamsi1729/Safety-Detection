@@ -154,7 +154,7 @@ const About = () => {
               Project Impact
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto font-mono">
-              ELEVEN11 is designed to make a real difference in space safety and mission assurance. By leveraging advanced AI and real-time detection, the project aims to set new standards for operational awareness and emergency preparedness in space environments.
+              Safety-Detection is designed to make a real difference in space safety and mission assurance. By leveraging advanced AI and real-time detection, the project aims to set new standards for operational awareness and emergency preparedness in space environments.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -178,13 +178,13 @@ const About = () => {
             </h2>
             
             <p className="text-lg text-gray-300 mb-6 max-w-2xl mx-auto leading-relaxed font-mono">
-              ELEVEN11 is committed to advancing space safety technology through open collaboration. 
+              Safety-Detection is committed to advancing space safety technology through open collaboration. 
               Our project leverages cutting-edge research and industry-standard tools.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-6">
               <a
-                href="https://github.com/11-11-crew/eleven11"
+                href="https://github.com/suryavamsi1729/Safety-Detection.git"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center px-6 py-3 bg-white text-black hover:bg-gray-200 font-bold text-base transition-all duration-300 transform hover:scale-105 font-mono relative overflow-hidden"
@@ -200,10 +200,7 @@ const About = () => {
 
             <div className="text-center space-y-2 font-mono">
               <p className="text-gray-400">
-                <span className="text-white">SPECIAL_THANKS:</span> To All Our Supporters & Open Source Contributors
-              </p>
-              <p className="text-gray-400">
-                <span className="text-white">TEAM:</span> 11:11 Crew
+                <span className="text-white">TEAM:</span>TechTians
               </p>
             </div>
           </div>
