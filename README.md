@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Eleven11 – Spot. Detect. Protect.</h1>
+  <h1>Safety-Detection – Spot. Detect. Protect.</h1>
   <p>
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
     <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat&logo=python" alt="Python 3.10+">
@@ -19,7 +19,6 @@
 It supports real-time detection, multilingual user interface, text-to-speech alerts, and a detection summary panel for enhanced usability in high-stakes environments like space stations.
 
 ##  Demo
-https://drive.google.com/file/d/1OlAeJzVPzBKHzg_n6E8b3zvB2-Cpm8P9/view?usp=sharing
 
 ##  Features
 
@@ -59,7 +58,7 @@ pip install -r requirements.txt
    ```bash
    python main.py
    ```
-   Backend will be available at http://localhost:5000
+   Backend will be available at http://localhost:8080
 
 ### Frontend Setup
 1. Navigate to frontend directory:
@@ -136,6 +135,3 @@ eleven11/
 ├── model weights/ # Trained YOLOv8 weight file
 
 ```
-<div align="center">
-  <h4> made with ‪‪❤︎‬ by team 11:11 crew !!</h4>
-</div>
